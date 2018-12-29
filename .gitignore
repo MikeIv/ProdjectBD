@@ -5,10 +5,10 @@
 *.pdf
 *.psd
 *.sublime*
-build/
+
 node_modules/
 npm-debug.*
-build/
-Design/
-_inBox/
+
+
+
 Thumbs.db
